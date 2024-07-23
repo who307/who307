@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 
-##
-
 I'm gunwho!😎
 ###
 Currently, I'm responsible for the UI/UX developer role in my organization, bridging the gap between web designers and developers.
