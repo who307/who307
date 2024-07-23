@@ -7,18 +7,7 @@
 ###
 
 I'm gunwho!
-
-###
-
 UI/UX Developer
-
-✨ Office workers
-🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-💁‍♂️ Trusted member and Moderator at DEV Community
-🏙 A lifetime insider and Mentor at Exercism.
-✍ I write technical blogs, You can visit my blog site at DEV.
-❤ Contributing to Open Source.
-💻 Visit my Portfolio for more details about me.
 
 ###
 
