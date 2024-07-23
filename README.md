@@ -1,8 +1,6 @@
 <p>$\huge{\rm{\color{#5ad7b7}Hi\ there\ 👋}}$</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
-<br>
-<br>
 
 ##
 
@@ -17,8 +15,6 @@ Apart from work, I enjoy bodybuilding and powerlifting as hobbies.💪
 ###
 
 <p>$\huge{\rm{\color{#5ad7b7}My\ Experience\ 🚀}}$</p>
-
-##
 
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
