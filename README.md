@@ -7,7 +7,8 @@
 ###
 
 I'm gunwho!
-UI/UX Developer
+##
+I currently work as a UI/UX developer in my organization, acting as a bridge between web designers and developers. I am responsible for developing and maintaining the markup, UI, and UX of websites and web applications and ensuring smooth communication between stakeholders. I also enjoy bodybuilding and powerlifting as a hobby.
 
 ###
 
