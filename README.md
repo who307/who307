@@ -1,4 +1,4 @@
-<p>$\bf{\large{\color{#6580DD}Hi there 👋}}$</p>
+<p>$\bf{\large{\color{#6580DD}Hi / there 👋}}$</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 <br>
 <br>
