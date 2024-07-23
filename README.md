@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 <br>
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...<br>
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
