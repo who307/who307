@@ -1,11 +1,12 @@
-<p>$\bf{\large{\color{#6580DD}Hi / there 👋}}$</p>
+<p>$\huge{\rm{\color{#5ad7b7}Hi\there\👋}}$</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 <br>
 <br>
 
 ###
 
-<h2 align="left">My Experience 🚀</h2>
+<p>$\huge{\rm{\color{#5ad7b7}My\Experience\🚀}}$</p>
 
 ###
 
