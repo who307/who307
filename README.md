@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 
-<p>$\large{\rm{I'm \ gunwho!😎\}}$</p>
+<p>$\large{\rm{I'm \ gunwho!😎}}</p>
 
 ###
 Currently, I'm responsible for the UI/UX developer role in my organization, bridging the gap between web designers and developers.
