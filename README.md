@@ -1,14 +1,18 @@
 <p>$\huge{\rm{\color{#5ad7b7}Hi\ there\ 👋}}$</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 <br>
 <br>
 
 ###
 
- ɪ'ᴍ gunwho!
+I'm gunwho!
+
+###
+
 UI/UX Developer
 
-✨ Office workers of life :)
+✨ Office workers
 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 💁‍♂️ Trusted member and Moderator at DEV Community
 🏙 A lifetime insider and Mentor at Exercism.
