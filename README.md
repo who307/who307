@@ -1,5 +1,5 @@
 <p>$\huge{\rm{\color{#5ad7b7}Hi\ there\ 👋}}$</p>
-
+<p>$\huge{\rm{\color{#5ad7b7}I'm\ gun who\ }}$</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who307&layout=compact)
 <br>
 <br>
@@ -22,3 +22,15 @@
 
 
 ###
+ ɪ'ᴍ ᴋɪʀᴀɴ!
+Digital Craftsman (Developer / Programmer)
+
+I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.
+
+✨ Student of life :)
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+💁‍♂️ Trusted member and Moderator at DEV Community
+🏙 A lifetime insider and Mentor at Exercism.
+✍ I write technical blogs, You can visit my blog site at DEV.
+❤ Contributing to Open Source.
+💻 Visit my Portfolio for more details about me.
