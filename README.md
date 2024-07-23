@@ -12,7 +12,7 @@ My primary tasks include developing and maintaining the markup, UI, and UX of we
 ###
 Apart from work, I enjoy bodybuilding and powerlifting as hobbies.💪
 
-###
+##
 
 <p>$\huge{\rm{\color{#5ad7b7}My\ Experience\ 🚀}}$</p>
 
