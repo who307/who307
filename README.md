@@ -9,7 +9,7 @@
 
 I'm gunwho!
 ###
-Currently, I am responsible for the UI/UX developer role in my organization, bridging the gap between web designers and developers. My primary tasks include developing and maintaining the markup, UI, and UX of websites and web applications, focusing on adhering to web standards, accessibility, and cross-browser compatibility while ensuring effective communication between stakeholders.
+Currently, I'm responsible for the UI/UX developer role in my organization, bridging the gap between web designers and developers. My primary tasks include developing and maintaining the markup, UI, and UX of websites and web applications, focusing on adhering to web standards, accessibility, and cross-browser compatibility while ensuring effective communication between stakeholders.
 Apart from work, I enjoy bodybuilding and powerlifting as my hobbies.
 
 ###
