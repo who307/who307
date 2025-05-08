@@ -5,9 +5,9 @@
 <p>$\large{\rm{I'm \ @who307!😎}}$</p>
 
 ###
-Currently, I'm responsible for the UI/UX developer role in my organization, bridging the gap between web designers and developers.
+As a UI/UX developer in my current role, I work closely with web planners, designers, and developers to create user-friendly and visually engaging web applications.
 ###
-My primary tasks include developing and maintaining the markup, UI, and UX of websites and web applications, with a focus on adhering to web standards, accessibility, and cross-browser compatibility while ensuring effective communication between stakeholders.
+My main responsibilities include developing and maintaining markup, UI components, and interactive user experiences. I focus on delivering intuitive interactions through thoughtful UX design, while adhering to web standards, accessibility, and cross-browser compatibility. I also ensure clear and effective communication among all stakeholders throughout the development process.
 
 ##
 
