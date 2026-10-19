@@ -14,18 +14,16 @@
 ```javascript
 const who307 = {
   name: "문건후",
-  role: "웹 퍼블리셔 (UI 퍼블리싱 · 인터랙션 구현)",
+  role: "웹 퍼블리셔",
   experience: "커머스 서비스 5년",
-  techStack: ["HTML", "CSS", "JavaScript", "jQuery", "React", "Next.js"],
-  tools: ["Figma", "Photoshop", "Illustrator", "GitHub", "Vercel"],
-  stateManagement: ["TanStack Query", "Zustand"],
-  strengths: {
-    markup: "시맨틱 마크업 · 웹 접근성(WAI-ARIA) · BEM 네이밍",
-    layout: "Flexbox · Grid · 반응형 · 크로스 브라우징",
-    interaction: "모달 · 토스트 · 아코디언 · Shadow DOM 위젯",
-    collaboration: "기획 · 디자인 · 개발 사이 요구사항 조율",
+  techStack: {
+    markup: ["HTML", "CSS", "JavaScript", "jQuery"],
+    frontend: ["React", "Next.js", "TanStack Query", "Zustand"],
+    design: ["Figma", "Photoshop", "Illustrator"],
+    deploy: ["GitHub", "Vercel"],
   },
-  currentFocus: "React · Next.js로 공공 API를 연동하는 서비스 만들기",
+  nowLearning: ["React", "Next.js", "Java"],
+  til: "https://github.com/who307/TIL",
 };
 ```
 
