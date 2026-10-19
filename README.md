@@ -3,26 +3,27 @@
 <p>$\large{\rm{I'm \ @who307!😎}}$</p>
 
 ###
-안녕하세요. 커머스 서비스에서 5년간 UI 퍼블리싱과 인터랙션 구현을 담당한 실무형 웹 퍼블리셔 **문건후**입니다.
+안녕하세요. 5년간 커머스 서비스의 UI를 만들어 온 웹 퍼블리셔이자, 웹 프론트엔드 개발자로 성장하고 있는 **문건후**입니다.
 
 ###
-쇼핑몰 솔루션과 해외직구·배송대행 서비스의 화면을 퍼블리싱하며 UI 마크업, 사용자 이벤트 처리, API 연동, 플러그인·라이브러리 활용 등 커머스 서비스 전반의 UI 구현을 담당해왔습니다. 웹 표준과 웹 접근성을 고려한 반응형·크로스 브라우징 구현에 익숙하며, 개인 프로젝트를 통해 React·Next.js 기반의 컴포넌트 UI와 API 연동으로 경험을 넓히고 있습니다.
+쇼핑몰 솔루션과 해외직구·배송대행 서비스에서 UI 마크업부터 사용자 이벤트 처리, API 연동, 플러그인·라이브러리 활용까지 화면 구현 전반을 담당해왔습니다. 웹 표준·웹 접근성을 지킨 반응형·크로스 브라우징 구현이 강점이며, 이 기반 위에 React·Next.js로 컴포넌트 설계, 서버 상태·전역 상태 관리, API 연동 경험을 쌓고 있습니다.
 
 ###
-기획자·디자이너·개발자와 요구사항을 조율하며, 개발자가 바로 붙일 수 있는 마크업과 오픈 이후 운영까지 책임지는 완성도 높은 UI를 만듭니다.
+마크업과 개발을 모두 이해하는 사람으로서 기획·디자인·개발 사이의 요구사항을 화면으로 연결하고, 사용자가 실제로 쓰기 편한 UI를 끝까지 책임지는 프론트엔드 개발자를 목표로 합니다.
 
 ```javascript
 const who307 = {
   name: "문건후",
-  role: "웹 퍼블리셔",
-  experience: "커머스 서비스 5년",
+  role: ["웹 퍼블리셔", "웹 프론트엔드 개발자"],
+  experience: "커머스 서비스 UI 개발 5년",
   techStack: {
     markup: ["HTML", "CSS", "JavaScript", "jQuery"],
     frontend: ["React", "Next.js", "TanStack Query", "Zustand"],
     design: ["Figma", "Photoshop", "Illustrator"],
     deploy: ["GitHub", "Vercel"],
   },
-  nowLearning: ["React", "Next.js", "Java"],
+  nowLearning: ["React", "Next.js", "TypeScript", "Java"],
+  goal: "탄탄한 마크업 위에 React · Next.js로 완성하는 프론트엔드 개발자",
   til: "https://github.com/who307/TIL",
 };
 ```
