@@ -11,6 +11,24 @@
 ###
 기획자·디자이너·개발자와 요구사항을 조율하며, 개발자가 바로 붙일 수 있는 마크업과 오픈 이후 운영까지 책임지는 완성도 높은 UI를 만듭니다.
 
+```javascript
+const who307 = {
+  name: "문건후",
+  role: "웹 퍼블리셔 (UI 퍼블리싱 · 인터랙션 구현)",
+  experience: "커머스 서비스 5년",
+  techStack: ["HTML", "CSS", "JavaScript", "jQuery", "React", "Next.js"],
+  tools: ["Figma", "Photoshop", "Illustrator", "GitHub", "Vercel"],
+  stateManagement: ["TanStack Query", "Zustand"],
+  strengths: {
+    markup: "시맨틱 마크업 · 웹 접근성(WAI-ARIA) · BEM 네이밍",
+    layout: "Flexbox · Grid · 반응형 · 크로스 브라우징",
+    interaction: "모달 · 토스트 · 아코디언 · Shadow DOM 위젯",
+    collaboration: "기획 · 디자인 · 개발 사이 요구사항 조율",
+  },
+  currentFocus: "React · Next.js로 공공 API를 연동하는 서비스 만들기",
+};
+```
+
 ##
 
 <p>$\huge{\rm{\color{#5ad7b7}My\ Experience\ 🚀}}$</p>
@@ -25,11 +43,6 @@
 ![badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-- **HTML** · 시맨틱 마크업과 WAI-ARIA를 적용한 웹 표준·접근성 마크업, 메일 클라이언트 호환 HTML 메일 템플릿
-- **CSS** · Flexbox·Grid 레이아웃, Media·Container Queries 반응형, BEM 네이밍, 크로스 브라우저 이슈 대응
-- **JavaScript · jQuery** · fetch·async/await 기반 데이터 처리, Shadow DOM 위젯, 모달·토스트·아코디언 등 인터랙션 UI
-- **React · Next.js** · 재사용 컴포넌트 설계, API 라우트 연동, TanStack Query·Zustand 상태 관리
 
 ##
 
