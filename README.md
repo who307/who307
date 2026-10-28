@@ -59,7 +59,7 @@ const who307 = {
 
 | 기간 | 내용 |
 | --- | --- |
-| 2026.09 ~ 2027.01 (예정) | AI Agent 실무 프로젝트 기반 풀스택 개발자 양성과정 (동대문 4기) · React·Next.js → Java·Spring·JPA → Python·LangChain·RAG · [학습 기록(TIL)](https://github.com/who307/TIL) |
+| 2026.09 ~ 2027.01 (예정) | 청년취업사관학교 새싹(SeSAC) · AI Agent 실무 프로젝트 기반 풀스택 개발자 양성과정 (동대문 4기) · React·Next.js → Java·Spring·JPA → Python·LangChain·RAG · [학습 기록(TIL)](https://github.com/who307/TIL) |
 
 ---
 
