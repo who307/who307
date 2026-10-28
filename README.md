@@ -70,4 +70,3 @@ const who307 = {
 <p>$\huge{\rm{\color{#5ad7b7}Contact\ 📫}}$</p>
 
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:who307@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5ad7b7?style=for-the-badge&logo=vercel&logoColor=white)](https://who307-portfolio.vercel.app/)
