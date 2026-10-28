@@ -55,6 +55,14 @@ const who307 = {
 
 ---
 
+<p>$\huge{\rm{\color{#5ad7b7}Education\ 📚}}$</p>
+
+| 기간 | 내용 |
+| --- | --- |
+| 2026.09 ~ 2027.01 (예정) | AI Agent 실무 프로젝트 기반 풀스택 개발자 양성과정 (동대문 4기) · React·Next.js → Java·Spring·JPA → Python·LangChain·RAG · [학습 기록(TIL)](https://github.com/who307/TIL) |
+
+---
+
 <p>$\huge{\rm{\color{#5ad7b7}Projects\ 📂}}$</p>
 
 - **해외직구 플랫폼 리뉴얼 1차·2차** · PC·모바일 전면 개편과 UI/UX 고도화, 30여 개 화면 퍼블리싱 전담
