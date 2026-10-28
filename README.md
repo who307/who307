@@ -62,7 +62,8 @@ const who307 = {
 - **크로스보더 풀필먼트 관리자** · 다중 탭 상태 유지 등 관리자 페이지 UI
 - **쇼핑몰 공식몰 리뉴얼** · 쇼핑몰 솔루션 기반 PC·모바일 퍼블리싱
 - **[컬쳐맵](https://github.com/who307/culture-map)** · Next.js·React로 공공 API 4종(KOBIS·KOPIS·TourAPI·문화포털)을 연동한 문화 행사 통합 검색 지도 서비스
-- **[한걸음](https://github.com/who307/one-step-service)** · 해커톤 팀 프로젝트(ON:KEY), 고립·은둔 청년이 지원 프로그램 첫 참석 전 AI 상대역과 첫마디를 연습하는 서비스 · Next.js·TypeScript
+- **[한걸음](https://github.com/who307/one-step-service)** · 고립·은둔 청년이 지원 프로그램 첫 참석 전 AI 상대역과 첫마디를 연습하는 서비스 · Next.js·TypeScript
+  - 해커톤 팀(ON:KEY) 협업의 토대가 된 초기 작업본: 프론트엔드 화면 구현, 백엔드 구조 설계 (API 연동 전)
 
 ---
 
