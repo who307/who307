@@ -69,7 +69,8 @@ const who307 = {
 - **글로벌 쇼핑 역직구 위젯** · Shadow DOM 기반 외부 사이트 삽입형 위젯과 글로벌 회원 페이지
 - **크로스보더 풀필먼트 관리자** · 다중 탭 상태 유지 등 관리자 페이지 UI
 - **쇼핑몰 공식몰 리뉴얼** · 쇼핑몰 솔루션 기반 PC·모바일 퍼블리싱
-- **[컬쳐맵](https://github.com/who307/culture-map)** · Next.js·React로 공공 API 4종(KOBIS·KOPIS·TourAPI·문화포털)을 연동한 문화 행사 통합 검색 지도 서비스
+- **[컬쳐맵](https://github.com/who307/culture-map)** · Next.js·React로 공공 API 5종(KOBIS·KOPIS·TourAPI·문화포털·행정안전부 영화상영관)을 연동한 문화 행사 통합 검색 지도 서비스
+  - 영화상영관 인허가 데이터를 극장 단위로 묶고 TM 좌표를 위경도로 변환해 CGV·롯데시네마·메가박스·씨네Q 450곳을 지도에 표시, 확대 시 화면 근처만 그리고 내 위치 보기 지원
 - **[한걸음](https://github.com/who307/one-step-service)** · 고립·은둔 청년이 지원 프로그램 첫 참석 전 AI 상대역과 첫마디를 연습하는 서비스 · Next.js·TypeScript
   - 해커톤 팀(ON:KEY) 협업의 토대가 된 초기 작업본: 프론트엔드 화면 구현, 백엔드 구조 설계 (API 연동 전)
 
