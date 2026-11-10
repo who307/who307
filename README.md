@@ -70,7 +70,7 @@ const who307 = {
 - **크로스보더 풀필먼트 관리자** · 다중 탭 상태 유지 등 관리자 페이지 UI
 - **쇼핑몰 공식몰 리뉴얼** · 쇼핑몰 솔루션 기반 PC·모바일 퍼블리싱
 - **[컬처맵](https://github.com/who307/culture-map)** · Next.js·React로 공공 API 5종(KOBIS·KOPIS·TourAPI·문화포털·행정안전부 영화상영관)을 연동한 문화 행사 통합 검색 지도 서비스
-- **[한걸음](https://github.com/who307/one-step-service)** · 2026 청년취업사관학교 해커톤 본선 진출·장려상 팀 프로젝트(ON:KEY, 기획·개발) · Next.js·Spring Boot로 고립·은둔 청년이 청년 프로그램 첫 참석 전 공고를 확인하고 AI 상대역과 첫마디를 연습하는 서비스 · [배포](https://one-step-service-phi.vercel.app) · [프로토타입](https://github.com/who307/one-step-service-prototype)
+- **[한걸음](https://github.com/who307/one-step-service)** · 2026 청년취업사관학교 해커톤 본선 진출·장려상 팀 프로젝트(ON:KEY, 기획·개발) · Next.js·Spring Boot로 고립·은둔 청년이 청년 프로그램 첫 참석 전 공고를 확인하고 AI 상대역과 첫마디를 연습하는 서비스 · [배포](https://one-step-service-phi.vercel.app)
 
 ---
 
